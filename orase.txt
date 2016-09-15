@@ -1,0 +1,20 @@
+Bucuresti:1883425:SUD 
+Cluj Napoca:324576:NORD 
+Timisoara:319279:VEST 
+Iasi:290422:NORD 
+Constanta:283872:EST 
+Craiova:269506:SUD 
+Brasov:253200:CENTRU 
+Galati:249432:EST 
+Ploiesti:209945:SUD 
+Oradea:196367:VEST 
+Braila:180302:EST 
+Arad:159074:VEST 
+Pitesti:155383:SUD 
+Sibiu:147245:CENTRU 
+Bacau:144307:EST 
+Targu Mures:134290:CENTRU
+Baia Mare:123738:NORD 
+Buzau:115494:EST 
+Botosani:106847:NORD 
+Satu Mare:102411:NORD
